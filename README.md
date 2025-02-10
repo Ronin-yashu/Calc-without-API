@@ -33,7 +33,7 @@ The project consists of three main files:
 No additional dependencies are required. A modern web browser is enough to run this project.  
 
 ## 📢 Future Enhancements  
-🔹 Add advanced functions like square root, percentage, and memory operations.  
+🔹 Add advanced functions like memory operations and more.  
 🔹 Implement a dark mode toggle.  
 🔹 Improve UI/UX for a more interactive experience.  
 
