@@ -16,7 +16,7 @@ The project consists of three main files:
 ✔️ Basic arithmetic operations (+, -, ×, ÷) and more.  
 ✔️ Clear and backspace functions for better usability.  
 ✔️ Responsive design for both desktop and mobile users.  
-✔️ Keyboard support for quick calculations.  
+✔️ Keyboard support for quick calculations **( 🛠️ Currently in development)**.  
 
 ## 🏗️ How to Use  
 1. **Clone the repository**:  
